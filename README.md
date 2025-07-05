@@ -1,5 +1,5 @@
 
-# 🚀 Carver3D
+# Carver3D
 
 **Carver3D** is a 3D reconstruction pipeline that transforms **2D orthographic views** (like front, top, and side images) into **3D models** using **silhouette carving**, **OpenCV** for image processing, and **Vulkan** for GPU-accelerated rendering. The goal is to create a fast, real-time tool that bridges low-level graphics programming and geometric modeling.
 

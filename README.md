@@ -28,7 +28,7 @@ Watch the demo of Carver3D here [LinkedIn](https://www.linkedin.com/posts/raguln
 2. Extract contours and preprocess with OpenCV  
 3. Apply silhouette carving to create voxel model  
 4. Render 3D output with Vulkan  
-5. (Optional) Refine with smoothing & mesh cleanup
+5. Refine with smoothing & mesh cleanup
 
 ---
 
@@ -78,10 +78,7 @@ make
 
 - [x] Silhouette carving engine  
 - [x] Vulkan-based preview renderer  
-- [ ] STL/OBJ export  
-- [ ] Mesh refinement (Laplacian smoothing, decimation)  
-- [ ] GUI frontend using Dear ImGui or Qt  
-- [ ] Interactive model manipulation (zoom, rotate, slice view)
+- [x] STL/OBJ export  
 
 ---
 
@@ -100,14 +97,6 @@ git clone https://github.com/yourusername/Carver3D.git
 
 **Ragulnath M B**  
 📧 ragulnath2004@outlook.com  
-📎 [LinkedIn](https://linkedin.com/in/ragulnathmb) | [GitHub](https://github.com/ragulnathMB)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
+📎 [LinkedIn](https://linkedin.com/in/ragulnathmb)
 
 > *"Turning sketches into spatial reality, one voxel at a time."*
